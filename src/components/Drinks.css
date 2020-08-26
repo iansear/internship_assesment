@@ -1,6 +1,11 @@
-#myApp {
+#selectDrink {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 30px;
+}
+
+#instructions {
+    width: 70%;
     margin: 30px;
 }

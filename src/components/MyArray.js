@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './MyArray.css'
-import myArray from './variables/myArray'
+import myArray from '../variables/myArray'
 
 function MyArray() {
   
